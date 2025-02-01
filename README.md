@@ -10,7 +10,6 @@ A beautifully designed jewellery website built using pure HTML and CSS. This pro
 - Elegant and modern UI  
 - Smooth animations and hover effects  
 - Clean and structured HTML & CSS  
-- No JavaScript, ensuring fast performance  
 
 ## 📸 Screenshots  
 
